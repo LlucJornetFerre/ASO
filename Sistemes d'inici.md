@@ -10,3 +10,7 @@ I posem el text.
 <img width="761" height="279" alt="image" src="https://github.com/user-attachments/assets/0daed17d-33e3-4d55-9310-1cae2a8cc2da" />
 
 Tot seguit, creem el target amb **sudo nano /etc/systemd/system/script.target**
+<img width="761" height="117" alt="image" src="https://github.com/user-attachments/assets/e8a66e12-5c58-4121-aeb4-618964677f88" />
+
+I posem el contingut.
+<img width="761" height="168" alt="image" src="https://github.com/user-attachments/assets/aed29cac-286b-4050-b685-1861afc5d749" />
