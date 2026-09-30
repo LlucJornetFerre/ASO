@@ -15,3 +15,9 @@ Tot seguit, creem el target amb **sudo nano /etc/systemd/system/script.target**
 I posem el contingut.
 <img width="761" height="168" alt="image" src="https://github.com/user-attachments/assets/ad3a3c69-6700-4b2a-8cec-947ee615f0f7" />
 
+A continuació, farem que sigui default target.
+
+Primer, comprovarem quin és el default target amb **systemctl get-default**
+
+I ho canviarem al script que hem creat.
+<img width="761" height="203" alt="image" src="https://github.com/user-attachments/assets/da05dd15-4b1e-4546-81b4-01564962b154" />
