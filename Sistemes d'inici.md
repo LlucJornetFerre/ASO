@@ -7,7 +7,8 @@ Ara, creem un servei amb sudo nano /etc/systemd/system/nouservei.service
 <img width="761" height="95" alt="image" src="https://github.com/user-attachments/assets/48d19828-2c07-4aeb-b487-62d21cbd2d39" />
 
 I posem el text.
-<img width="761" height="279" alt="image" src="https://github.com/user-attachments/assets/0daed17d-33e3-4d55-9310-1cae2a8cc2da" />
+<img width="789" height="288" alt="image" src="https://github.com/user-attachments/assets/af783db8-a4ee-456b-a165-d8b1d216c1eb" />
+
 
 Tot seguit, creem el target amb **sudo nano /etc/systemd/system/script.target**
 <img width="761" height="117" alt="image" src="https://github.com/user-attachments/assets/e8a66e12-5c58-4121-aeb4-618964677f88" />
