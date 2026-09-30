@@ -1,7 +1,8 @@
 Primer, creem l'script que executarem amb el target.
 <img width="761" height="95" alt="image" src="https://github.com/user-attachments/assets/45b22f17-eb33-47c2-919d-49db3c9680d0" />
 
-**POSAR FOTO DEL SCRIPT QUE OBRI UN PORT**
+I crem l'script, que en aquest cas, genera una carpeta oculta a "/", i copia les claus d'encriptació dintre d'aquesta.
+<img width="789" height="192" alt="image" src="https://github.com/user-attachments/assets/ceb859f0-91f9-4c4c-a2e3-5c4f952bff0e" />
 
 Ara, creem un servei amb sudo nano /etc/systemd/system/nouservei.service
 <img width="761" height="95" alt="image" src="https://github.com/user-attachments/assets/48d19828-2c07-4aeb-b487-62d21cbd2d39" />
